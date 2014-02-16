@@ -1,0 +1,7 @@
+#contributor : Shane Celis (shane (at) gnufoo (dot) org)
+#name : equation
+# --
+\begin{equation}\label{${1:eq:}}
+$0
+\end{equation}
+

@@ -1,0 +1,7 @@
+#name : function 
+# --
+function ${1:Output variables} = ${2:functionName}(${3:Input variables})
+
+$0
+
+end

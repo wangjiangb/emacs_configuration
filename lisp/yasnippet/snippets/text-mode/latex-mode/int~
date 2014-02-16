@@ -1,0 +1,4 @@
+#contributor : Rodrigo Setti <rodrigosetti@gmail.com>
+#name : \int{-\infty}{\infty}{}
+# --
+\int{${1:-\infty}}{${2:\infty}}{$3}

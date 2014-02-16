@@ -1,0 +1,4 @@
+#contributor : Rodrigo Setti <rodrigosetti@gmail.com>
+#name : \mathbf{}
+# --
+\mathbf{$1}

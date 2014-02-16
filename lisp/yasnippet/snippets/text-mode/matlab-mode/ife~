@@ -1,0 +1,7 @@
+#name : ife
+# --
+if ${1:condition}
+	$0
+else
+	$1
+end
